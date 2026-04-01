@@ -5,7 +5,10 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
   <a href="https://github.com/vercel-labs/skills"><img src="https://img.shields.io/badge/npx_skills_add-compatible-brightgreen.svg" alt="Skills Compatible"></a>
+  <a href="https://github.com/anthropics/claude-code"><img src="https://img.shields.io/badge/Claude_Code-source_analysis-d4a574.svg" alt="Claude Code"></a>
 </p>
+
+<p align="center"><strong>Production design patterns for AI coding agents, distilled from 512,000 lines of Claude Code.</strong></p>
 
 <p align="center">
   <a href="README.md"><strong>English</strong></a> · <a href="README_ZH.md"><strong>中文</strong></a>
