@@ -1,18 +1,14 @@
-[English](README.md) | [中文](README_ZH.md)
-
 <p align="center">
   <img src="images/agent-harness-patterns-header.png" alt="Agentic Harness Patterns" width="680">
 </p>
-
-<h1 align="center">Agentic Harness Patterns</h1>
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
   <a href="https://github.com/vercel-labs/skills"><img src="https://img.shields.io/badge/npx_skills_add-compatible-brightgreen.svg" alt="Skills Compatible"></a>
   <a href="#installation"><img src="https://img.shields.io/badge/Languages-EN%20%7C%20ZH-orange.svg" alt="EN | ZH"></a>
+  &nbsp;
+  <a href="README.md">English</a> | <a href="README_ZH.md">中文</a>
 </p>
-
-<p align="center"><strong>Production design patterns for AI coding agents, distilled from 512,000 lines of Claude Code.</strong></p>
 
 ---
 
