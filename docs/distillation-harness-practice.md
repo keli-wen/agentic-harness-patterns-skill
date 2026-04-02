@@ -14,7 +14,7 @@ But 512,000 lines of TypeScript is clearly more than one agent can handle in a s
 - [OpenAI - Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
 - [OpenAI - How we used Codex to build Sora for Android in 28 days](https://openai.com/index/shipping-sora-for-android-with-codex/)
 
-In retrospect, the process resembles PCA (principal component analysis). I injected my own blog posts and preferences as a set of "basis vectors," then had agents project from the complex code space to extract the most important principles. **Code is high-dimensional, but valuable design patterns are low-rank — distillation is about finding those principal components.**
+In retrospect, the process resembles a PCA-style dimensionality reduction. I injected my own blog posts and preferences as a set of "basis vectors," then had agents project from the complex code space to extract the most important principles. **Code is high-dimensional, but valuable design patterns are low-rank — distillation is about finding those principal components.**
 
 This post covers three layers: the harness architecture, where I intervened as a human, and reflections from the process.
 

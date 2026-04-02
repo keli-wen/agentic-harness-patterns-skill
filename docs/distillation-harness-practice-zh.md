@@ -14,7 +14,7 @@
 - [OpenAI - Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
 - [OpenAI - How we used Codex to build Sora for Android in 28 days](https://openai.com/index/shipping-sora-for-android-with-codex/)
 
-回过头看，蒸馏的过程有点像做 PCA（主成分分析）。我通过注入自己的博客和偏好构建了一组"基向量"，然后让 Agent 从复杂的代码空间中做投影，提取出几个最主要的 principle。**代码是高维的，但有价值的设计模式其实是低秩的，我蒸馏的本质就是找到这些主成分**。（古老的数模记忆攻击了我）
+回过头看，蒸馏的过程有点像做 PCA（主成分分析）式的降维。我通过注入自己的博客和偏好构建了一组"基向量"，然后让 Agent 从复杂的代码空间中做投影，提取出几个最主要的 principle。**代码是高维的，但有价值的设计模式其实是低秩的，我蒸馏的本质就是找到这些主成分**。（古老的数模记忆攻击了我）
 
 本文从三个层面展开：Harness 协作架构设计、我在其中做了什么（Human-in-the-loop）、以及实践过程中的一些反思。
 
